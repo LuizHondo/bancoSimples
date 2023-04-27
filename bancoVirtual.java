@@ -52,8 +52,3 @@ public class bancoVirtual {
         System.out.println("Programa banco encerrado\n");
     }
 }
-//    Inicializar dados do cliente
-//        Menu de opções
-//        Visualização do saldo
-//        Enviar valor
-//        Receber valor
